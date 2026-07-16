@@ -99,8 +99,8 @@ Faltan pruebas finales de calidad, documentacion completa de entrega y verificac
 
 ## Link a la aplicacion desplegada
 
-Pendiente.
+https://tp-final-python-n5soq7svzvzjkrur8fkblc.streamlit.app/
 
 ## Autor
 
-Pendiente.
+Maxi Borachoc
